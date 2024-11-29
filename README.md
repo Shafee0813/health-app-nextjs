@@ -1,8 +1,17 @@
+## Live images
+![image](https://github.com/user-attachments/assets/6d94bd30-9a46-44a3-9a39-4e20e5721af7)
+![image](https://github.com/user-attachments/assets/c3d0f978-001c-4772-b01b-083229290d4b)
+![image](https://github.com/user-attachments/assets/4b2bec73-05d8-4c52-b376-88ec69a648e5)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+Clone the repo.
+
+Get your Gemini API key and add it at app/assistant/page.jsx at line 18 within the quotation marks.
+
+Next, run the development server:
 
 ```bash
 npm run dev
@@ -16,7 +25,6 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
